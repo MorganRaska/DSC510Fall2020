@@ -1,1 +1,38 @@
 
+# DSC510
+# Week 2
+# Programming assignment week 2
+# Author Morgan Raska
+# Due 9/13/2020
+print("welcome Fiber Optic Cable World")
+name = input('What is your company name?\n')
+print(name)
+prompt = 'Length in feet of fiber optic cable needed?\n'
+length = int(input(prompt)
+perfeet = .87 #cost of the optic cable perfeet
+explanation ='It costs .87 cents per foot of fiber optic cable'
+totalcost = perfeet * length
+print('Your total is: ', totalcost)
+reciept = name, explanation, length, perfeet, totalcost
+print(reciept)
+print('Thank you, come again')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
